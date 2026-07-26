@@ -1,0 +1,11 @@
+{"type": "incoming", "chat_id": 7301914353, "text": "What is 15% of 200? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1785062547.306713}
+{"type": "outgoing", "chat_id": 7301914353, "text": "{\"answer\": 30, \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785062551.0290823}
+{"type": "incoming", "chat_id": 7301914353, "text": "What is the capital of Tamil Nadu? Reply with ONLY a JSON object like {\\\"capital\\\": \\\"<city>\\\"}", "timestamp": 1785065725.109181}
+{"type": "outgoing", "chat_id": 7301914353, "text": "{\"capital\": \"Chennai\", \"log_url\": \"https://raw.githubusercontent.com/23f1000851/telegram-data-bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785065727.8450766}
+{"type": "incoming", "chat_id": 7301914353, "text": "tomorrow what is the day?", "timestamp": 1785065879.3025064}
+{"type": "incoming", "chat_id": 7301914353, "text": "What is the capital of America?", "timestamp": 1785068799.6149852}
+{"type": "outgoing", "chat_id": 7301914353, "text": "{\"country\": \"United States of America\", \"capital\": \"Washington, D.C.\", \"log_url\": \"https://raw.githubusercontent.com/23f1000851/telegram-data-bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785068806.255918}
+{"type": "incoming", "chat_id": 7301914353, "text": "which day india got independence?", "timestamp": 1785068913.9432383}
+{"type": "outgoing", "chat_id": 7301914353, "text": "{\"country\": \"India\", \"independence_date\": \"1947-08-15\", \"day_of_week\": \"Friday\", \"log_url\": \"https://raw.githubusercontent.com/23f1000851/telegram-data-bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785068922.2670655}
+{"type": "incoming", "chat_id": 7301914353, "text": "then 78th independence comes in which day?", "timestamp": 1785068968.9300215}
+{"type": "outgoing", "chat_id": 7301914353, "text": "{\"country\": \"India\", \"anniversary\": 78, \"anniversary_date\": \"2025-08-15\", \"day_of_week\": \"Friday\", \"log_url\": \"https://raw.githubusercontent.com/23f1000851/telegram-data-bot/refs/heads/main/run.jsonl\"}", "timestamp": 1785068988.942048}
